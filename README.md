@@ -7,11 +7,10 @@
     <li><strong>Website Creation:</strong> Experience in designing and developing responsive and accessible websites.</li>
     <li><strong>Programming:</strong> Knowledge in Python, learning C# and SQL.</li>
     <li><strong>Collaboration:</strong> Experience working in development teams and with graphic designers.</li>
+    <li>🔭 I’m currently working on **Codeffee and Smartweb, both on youtube.**</li>
   </ul>
 </p>
 
-
-- 🔭 I’m currently working on **Codeffee and Smartweb, both on youtube.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
