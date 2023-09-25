@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Front-end developer under construction</h3>
+<h1 align="center">Hi 👋, I'm Daniel Mena</h1>
+<h3 align="left">Key Skills</h3>
+<p align="left">
+  <ul>
+    <li><strong>Graphic Design:</strong> Photoshop, Illustrator, InDesign, Adobe Creative Suite.</li>
+    <li><strong>Frontend Web Development:</strong> HTML, CSS, JavaScript, jQuery.</li>
+    <li><strong>Website Creation:</strong> Experience in designing and developing responsive and accessible websites.</li>
+    <li><strong>Programming:</strong> Knowledge in Python, learning C# and SQL.</li>
+    <li><strong>Collaboration:</strong> Experience working in development teams and with graphic designers.</li>
+  </ul>
+</p>
+
 
 - 🔭 I’m currently working on **Codeffee and Smartweb, both on youtube.**
-
-- 🌱 I’m currently learning **Python, mysql and react**
-
-- 💬 Ask me about **Bootstrap, photoshop, javascript and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
